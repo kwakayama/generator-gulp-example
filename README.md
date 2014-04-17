@@ -1,4 +1,4 @@
-# generator-gulp-example [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image]
+# generator-gulp-example [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image][![Coverage Status](https://coveralls.io/repos/stefanbuck/appendit/badge.png)](https://coveralls.io/r/stefanbuck/appendit)
 
 The best module ever.
 
