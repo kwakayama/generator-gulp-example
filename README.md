@@ -1,4 +1,8 @@
-# generator-gulp-example [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image][![Coverage Status](https://coveralls.io/repos/stefanbuck/appendit/badge.png)](https://coveralls.io/r/stefanbuck/appendit)
+# generator-gulp-example
+[![NPM version][npm-image]][npm-url] 
+[![Build Status][travis-image]][travis-url] 
+[![Dependency Status][daviddm-url]][daviddm-image]
+[![Coverage Status][coveralls-url]][coveralls-image]
 
 The best module ever.
 
@@ -44,3 +48,5 @@ Copyright (c) 2014 Kentaro Wakayama. Licensed under the MIT license.
 [travis-image]: https://travis-ci.org/kwakayama/generator-gulp-example.svg?branch=master
 [daviddm-url]: https://david-dm.org/kwakayama/generator-gulp-example.svg?theme=shields.io
 [daviddm-image]: https://david-dm.org/kwakayama/generator-gulp-example
+[coveralls-url]: https://coveralls.io/r/kwakayama/generator-gulp-example
+[coveralls-image]: https://coveralls.io/repos/kwakayama/generator-gulp-example/badge.png
