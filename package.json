@@ -15,7 +15,10 @@
     "url": "https://github.com/kwakayama/generator-gulp-example"
   },
   "keywords":[],
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "2.4.1",
+    "q": "2.0.1"
+  },
   "devDependencies": {
     "gulp": "~3.5.2",
     "gulp-bump": "~0.1.4",
